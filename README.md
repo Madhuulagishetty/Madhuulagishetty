@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [NetflixClone](https://github.com/Madhuulagishetty/NetflixClone)
 
-- 🌱 I’m currently learning **React,Javascript**
+- 🌱 I’m currently learning *DSA**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript,Reactjs **
 
 - 📫 How to reach me **lagishettymadhu05@gmail.com**
 
