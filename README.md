@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -### 🧠 Currently Learning
 - 🔭 Next.js | TypeScript | Framer Motion
 - 🔐 Firebase Auth, Stripe, Razorpay integration
-- 📱 React Native (Mobile App Development)
+
 
 ### 📫 How to Reach Me
 - 📧 Email: madhuulagishetty05@gmail.com
