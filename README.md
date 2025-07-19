@@ -9,7 +9,7 @@ Currently diving deeper into **Full-Stack Development** 🚀
 
 ### 📫 How to Reach Me
 - 📧 Email: madhuulagishetty05@gmail.com
-- 💬 Ask me about: React, Tailwind, APIs, Full-Stack Development
+- 💬 Ask me about: React, Tailwind,Typescript , APIs, Full-Stack Development
 
 ### ✨ Fun Fact
 I love solving logic problems and making visually appealing UI designs!
