@@ -4,7 +4,7 @@ I'm a passionate **Frontend Developer** who loves to build responsive, interacti
 Currently diving deeper into **Full-Stack Development** 🚀
 
 -### 🧠 Currently Learning
-- LLM (Large language Model)
+- Go lang
 
 
 ### 📫 How to Reach Me
