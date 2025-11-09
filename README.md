@@ -4,7 +4,7 @@ I'm a passionate **Frontend Developer** who loves to build responsive, interacti
 Currently diving deeper into **Full-Stack Development** 🚀
 
 -### 🧠 Currently Learning
-- Go lang
+-  WEB 3 , Rust 
 
 
 ### 📫 How to Reach Me
